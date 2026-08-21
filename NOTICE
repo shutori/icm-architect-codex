@@ -1,0 +1,7 @@
+ICM Architect for Codex is an unofficial compatibility adaptation of the ICM Architect skill by RinDig:
+
+https://github.com/RinDig/icm-architect
+
+The original Interpretable Context Methodology, skill instructions, references, templates, and copyright notice are retained under the upstream MIT license.
+
+Codex adaptation changes are limited to the Codex plugin package, Codex-specific wording, and use of AGENTS.md as the canonical generated routing entry point. This project does not claim authorship of the original method or upstream skill.

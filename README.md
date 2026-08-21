@@ -8,7 +8,7 @@ The original method and skill were created by RinDig and are used here under the
 
 ## Install
 
-For local testing, follow [TESTING.md](TESTING.md). The plugin exposes the `icm-architect` skill.
+For installation, follow [INSTALL.md](INSTALL.md). The plugin exposes the `icm-architect` skill.
 
 ## Use
 
@@ -28,7 +28,7 @@ After installing from your local marketplace, start a **new Codex task** and ask
 
 > ICM this: every Friday I turn a list of links into a researched, reviewed newsletter.
 
-Codex should ask about the repeating unit, the stages, human approval gates, stable reference material, and the final deliverable before proposing a small workspace. See [TESTING.md](TESTING.md) for installation, update, and expected-result details.
+Codex should ask about the repeating unit, the stages, human approval gates, stable reference material, and the final deliverable before proposing a small workspace. See [INSTALL.md](INSTALL.md) for installation and update details.
 
 ## What is included
 

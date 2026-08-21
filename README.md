@@ -8,7 +8,7 @@ The original method and skill were created by RinDig and are used here under the
 
 ## Install
 
-Install this repository as a local Codex plugin, then enable **ICM Architect for Codex**. The plugin exposes the `icm-architect` skill.
+For local testing, follow [TESTING.md](TESTING.md). The plugin exposes the `icm-architect` skill.
 
 ## Use
 
@@ -21,6 +21,14 @@ Ask Codex to:
 - “Audit this folder and propose an ICM restructure”
 
 The skill selects the smallest suitable ICM form, proposes the workspace before changing it, and uses the walk test to make sure a cold agent can navigate from `AGENTS.md` and its contracts alone.
+
+## Quick test
+
+After installing from your local marketplace, start a **new Codex task** and ask:
+
+> ICM this: every Friday I turn a list of links into a researched, reviewed newsletter.
+
+Codex should ask about the repeating unit, the stages, human approval gates, stable reference material, and the final deliverable before proposing a small workspace. See [TESTING.md](TESTING.md) for installation, update, and expected-result details.
 
 ## What is included
 
